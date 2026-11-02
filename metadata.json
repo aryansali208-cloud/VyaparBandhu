@@ -1,0 +1,6 @@
+{
+  "name": "VyaparBandhu - Universal Indian Business ERP & Billing",
+  "description": "Universal product-independent business management, fast POS billing, GST invoicing, Udhar khata ledger, and multi-unit inventory for Indian retailers, wholesalers, and local traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
